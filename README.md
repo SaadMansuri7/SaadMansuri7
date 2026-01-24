@@ -43,7 +43,6 @@ I'm a Full-Stack Developer passionate about building scalable, user-centric web 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaadMansuri7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SaadMansuri7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadMansuri7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SaadMansuri7&theme=radical&margin-w=10)
